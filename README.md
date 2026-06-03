@@ -1,3 +1,5 @@
+**Birthday Bot**
+
 This is a tabletop device built on an ESP32-C3 Super mini featuring an animated OLED display, personalized birthday messages from family members, touch interface, and a custom 3D-printed enclosure.
 
 This is a gift to my mom.
@@ -43,13 +45,14 @@ Single tap and double tap are distinguished using a deferred detection window (3
 
 ## Hardware
 
-microcontroller  | ESP32-C3 Super Mini                | Amazon link: https://www.amazon.ca/dp/B0D4QK5V74?ref=ppx_yo2ov_dt_b_fed_asin_title
-Display          | 0.96" I2C OLED Display             | Amazon link: https://www.amazon.ca/dp/B0D2RMQQHR?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-Audio module     | DFPlayer MP3 Player module.        | Amazon link: https://www.amazon.ca/dp/B08FFLH5XL?ref=ppx_yo2ov_dt_b_fed_asin_title
-Touch sensor     | TTP223 Capacitive Touch Switch     | Amazon link: https://www.amazon.ca/dp/B0DFM8YQ3B?ref=ppx_yo2ov_dt_b_fed_asin_title
-Storage          | 16GB TF Card from facebook marketplace
-Enclosure        | Custom 3D-printed PLA Housing
-
+| Component | Details |
+|---|---|
+| Microcontroller | ESP32-C3 Super Mini |
+| Display | 0.96" I2C OLED Display |
+| Audio module | DFPlayer Mini |
+| Touch sensor | TTP223 Capacitive Touch Switch |
+| Storage | 16GB TF from facebook marketplace  |
+| Enclosure | Custom 3D-printed PLA housing |
 ---
 
 ## Wiring
