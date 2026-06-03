@@ -39,7 +39,7 @@ Single tap and double tap are distinguished using a deferred detection window (3
 
 ## State Diagram
 
-![State diagram](hardware/state-diagram.png)
+![State diagram](hardware/state-diagram.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ Single tap and double tap are distinguished using a deferred detection window (3
 
 ## Wiring
 
-![Schematic](hardware/schematic.png)
+![Schematic](hardware/wiring-schematic.jpg)
 
 | ESP32 Pin | Connected To |
 |---|---|
