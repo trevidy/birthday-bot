@@ -6,9 +6,11 @@ This is a gift to my mom.
 
 ---
 
-## Demo
+---
 
-[![Birthday Bot Demo](./assets/demo-thumbnail.png)](./assets/birthday-bot-demo.mp4)
+## Demo Video (redirect to youtube)
+
+[![Watch the Birthday Bot Demo](https://img.youtube.com/vi/ugCr3islXZM/maxresdefault.jpg)](https://youtu.be/ugCr3islXZM)
 
 ---
 
