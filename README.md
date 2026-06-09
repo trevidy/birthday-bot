@@ -8,7 +8,7 @@ This is a gift to my mom.
 
 ## Demo
 
-Coming soon..
+[![Birthday Bot Demo](./assets/demo-thumbnail.png)](./assets/birthday-bot-demo.mp4)
 
 ---
 
@@ -90,6 +90,7 @@ The DFPlayer Mini reads MP3s by folder and track number, so the card is structur
 
 ## 3D-Printed Enclosure
 
+![3D Enclosure](hardware/3d-enclosure.jpg)
 > STL files are in `/hardware/housing.stl`
 > Printed in PLA at 0.1mm layer height. Designed in Autodesk Fusion.
 
